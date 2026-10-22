@@ -95,6 +95,19 @@ I enjoy designing and building software solutions, understanding how systems wor
 
 ---
 
+## Contact
+
+<p align="center">
+  <a href="mailto:sergioalenova@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email">
+  </a>
+  <a href="https://www.linkedin.com/in/snovap">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
+  </a>
+</p>
+
+---
+
 ## 🐍 Contributions
 
 <p align="center">
