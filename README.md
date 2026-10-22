@@ -21,6 +21,9 @@
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 I'm a Systems Engineering student at the **National University of Colombia**, focused on backend development and software engineering.
 
 I enjoy designing and building software solutions, understanding how systems work behind the scenes, and applying engineering principles to create maintainable, reliable, and scalable applications.
